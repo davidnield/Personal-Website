@@ -1,11 +1,17 @@
 ---
-title: "Personal Website"
+title: "David Nield"
+about:
+  template: trestles
+  image: profile.jpg
+  links: 
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/DRNield
+    - icon: github
+      text: Github
+      href: https://github.com/davidnield
 ---
 
-This is a Quarto website.
+I am a data scientist at Callisto Media, a data-driven book publishing company based in the San Francisco Bay Area. I identify product opportunities and develop predictive models, KPIs, research workflows, and data infrastructure.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Previously, I was a PhD student in Political Science at the University of California, Berkeley, where I conducted research on topics ranging from political misinformation, \"small world\" network dynamics, campaign finance networks, and prejudice against Muslim-Americans.

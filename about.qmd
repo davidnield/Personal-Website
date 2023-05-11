@@ -12,8 +12,6 @@ about:
       href: https://github.com/davidnield
 ---
 
-About this site
+I am a data scientist at Callisto Media, a data-driven book publishing company based in the San Francisco Bay Area. I identify product opportunities and develop predictive models, KPIs, research workflows, and data infrastructure.
 
-```{r}
-1 + 1
-```
+Previously, I was a PhD student in Political Science at the University of California, Berkeley, where I conducted research on topics ranging from political misinformation, "small world" network dynamics, campaign finance networks, and prejudice against Muslim-Americans.
