@@ -4,6 +4,12 @@ project:
 
 website:
   # title: "Personal Website"
+  twitter-card:
+    creator: "@DRNield"
+    site: "@DRNield"
+  open-graph:
+    locale: en_US
+  google-analytics: "G-EZ5WZFDWDZ"
   navbar:
     left:
       - href: index.qmd

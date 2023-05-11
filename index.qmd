@@ -1,7 +1,8 @@
 ---
 title: "David Nield"
+page-layout: full
 about:
-  template: trestles
+  template: jolla
   image: profile.jpg
   links: 
     - icon: twitter
@@ -12,6 +13,10 @@ about:
       href: https://github.com/davidnield
 ---
 
-I am a data scientist at Callisto Media, a data-driven book publishing company based in the San Francisco Bay Area. I identify product opportunities and develop predictive models, KPIs, research workflows, and data infrastructure.
+I am a Data Scientist at Callisto Media, a data-driven book publishing company, where I have worked since 2019.
 
-Previously, I was a PhD student in Political Science at the University of California, Berkeley, where I conducted research on topics ranging from political misinformation, \"small world\" network dynamics, campaign finance networks, and prejudice against Muslim-Americans.
+I work on a small team which means that I am a generalist. I have experience building time series forecasting models for inventory and demand forecasting, designing A/B tests and Bayesian bid optimization algorithms for online advertising, and using word embeddings to cluster customer search terms into topics useful for identifying new product opportunities.
+
+When I am not working, I enjoy playing Chess, watching Ohio State football and Lakers basketball, and going on hikes with my wife, Samantha, around where we live in Southern California.
+
+In May 2023, Callisto Media was acquired by Penguin Random House. I am currently under contract to Penguin Random House until August 2023. I am currently looking for new opportunities to start in August or September 2023. A pdf version of my resume can be found in the top left of the navigation bar and please feel free to reach out via e-mail using the mail icon at the bottom of the page.
