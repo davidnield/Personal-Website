@@ -13,7 +13,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-      - href: resume.qmd
+      - href: resume.Rmd
 
 format:
   html:
