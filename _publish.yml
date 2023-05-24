@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 94cb8cc6-0863-4ae6-846a-0be2485cf6a7
+      url: 'https://aesthetic-crumble-6b36c0.netlify.app'
