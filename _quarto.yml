@@ -4,9 +4,11 @@ project:
 
 website:
   # title: "Personal Website"
+  favicon: files/profile.jpg
   twitter-card:
     creator: "@DRNield"
     site: "@DRNield"
+    card-style: "summary_large_image"
   open-graph:
     locale: en_US
   google-analytics: "G-EZ5WZFDWDZ"
