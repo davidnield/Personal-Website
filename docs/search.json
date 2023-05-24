@@ -4,62 +4,6 @@
     "href": "index.html",
     "title": "David Nield",
     "section": "",
-    "text": "I am a Data Scientist at Callisto Media, a data-driven book publishing company, where I have worked since 2019.\nI work on a small team which means that I am a generalist. I have experience building time series forecasting models for inventory and demand forecasting, designing A/B tests and Bayesian bid optimization algorithms for online advertising, and using word embeddings to cluster customer search terms into topics useful for identifying new product opportunities.\nWhen I am not working, I am playing Chess, watching Ohio State football and Lakers basketball, or hiking with my wife, Samantha, around where we live in Southern California.\nIn May 2023, Callisto Media was acquired by Penguin Random House where I am currently under contract until August 2023. I am currently looking for new opportunities to start after my contract ends. A pdf version of my resume can be found in the top left of the navigation bar. Please feel free to reach out via e-mail using the “Contact me” icon at the bottom of the page."
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\npacman::p_load(pagedown)"
-  },
-  {
-    "objectID": "Resume.html",
-    "href": "Resume.html",
-    "title": "David Nield",
-    "section": "",
-    "text": "David Nield\n\n\n\n\n\n nield.dr@gmail.com\n github.com/davidnield\n +1 614-753-8359\nFor more information, please contact me via email.\n\n\n\n\n\nExperienced in time series forecasting, supervised machine learning models, and experimental design.\nFull experience with next generation sequencing data analysis.\nHighly skilled in R, SQL, Git, and LaTeX\n\n\n\n\nThis resume was made with the R package pagedown.\nLast updated on 2023-05-11."
-  },
-  {
-    "objectID": "Resume.html#title",
-    "href": "Resume.html#title",
-    "title": "David Nield",
-    "section": "David Nield",
-    "text": "David Nield\n\nCurrently searching for a Data Science position"
-  },
-  {
-    "objectID": "Resume.html#education",
-    "href": "Resume.html#education",
-    "title": "David Nield",
-    "section": "Education",
-    "text": "Education\n\nUniversity of California, Berkeley\nM.A. in Information and Computing Sciences\nBerkeley, CA\n2019\nThesis: Measuring inter-donor influence in FEC data (1979-2014)\n\n\nThe Ohio State University\nB.S. in Political Science; Minor in Statistics\nColumbus, OH\n2017\nThesis: The Misperceiving Voter"
-  },
-  {
-    "objectID": "Resume.html#research-experience",
-    "href": "Resume.html#research-experience",
-    "title": "David Nield",
-    "section": "Research Experience",
-    "text": "Research Experience\n\nGraduate Research Assistant\nBeijing Institute of Genomics, Chinese Academy of Sciences\nBeijing, China\n2011 - 2014\n\nPerformed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.\nFound EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.\n\n\n\nBioinformatican\nMy Health Gene Technology Co., Ltd.\nBeijing, China\n2015 - 2016\n\nInvestigated how cancer cells spread to other parts of the body at the single cell level.\n\n\n\nVisiting Scientist\nUniversity of Alabama at Birmingham\nAL, USA\n2016 - 2018\n\nInvestigated the role of mitochondria in development of cancer.\nInvestigated the evolution of genome architecture and its role in important evolutionary events.\nDetected thrombotic thrombocytopenic purpura related mutations in mutiple patients’ blood genome."
-  },
-  {
-    "objectID": "Resume.html#professional-experience",
-    "href": "Resume.html#professional-experience",
-    "title": "David Nield",
-    "section": "Professional Experience",
-    "text": "Professional Experience\n\nData Scientist, intern\nSupStat Inc.\nBeijing, China\n2014\n\n\nTaught R language to beginners.\nWrote Shiny app demos.\nConverted statistical tutorials from SPSS to R language.\n\n\n\n\nBioinformatician\nMy Health Gene Technology Co., Ltd.\nBeijing, China\n2015 - 2016\n\n\nAnalyzed whole-exome sequencing data.\nWrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.\nStudied tumor metastasis and wrote research reports.\nAlso did case studies to identify the genetic defect causing rare disease."
-  },
-  {
-    "objectID": "Resume.html#teaching-experience",
-    "href": "Resume.html#teaching-experience",
-    "title": "David Nield",
-    "section": "Teaching Experience",
-    "text": "Teaching Experience\n\nIntroduction to R Language for Beginners.\nInstructor of R and Data Mining Training Courses at SupStat Inc.\nBeijing, China\n2014\n\n\nComputational Biology and Bioinformatics.\nTeaching assistant of GBS CB2-201 courses at UAB\nAL, USA\n2016 - 2017"
-  },
-  {
-    "objectID": "Resume.html#selected-publications-and-posters",
-    "href": "Resume.html#selected-publications-and-posters",
-    "title": "David Nield",
-    "section": "Selected Publications and Posters",
-    "text": "Selected Publications and Posters\n\nGenetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.\nPoster for 2013 International Conference of Genomics\nQingdao, China\n2014\nYu L, Chen B, Zhang Z.\n\n\nESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.\nJ Cell Sci. 2016 May 15;129(10):2075-84.\nN/A\n2016\nSheng Z, Yu L, Zhang T, Pei X, Li X, Zhang Z and Du W."
+    "text": "I am a Data Scientist at Callisto Media, a data-driven book publishing company, where I have worked since 2019.\nI work on a small team which means that I am a generalist. I have experience building time series forecasting models for inventory and demand forecasting, designing A/B tests and Bayesian bid optimization algorithms for online advertising, and using word embeddings to cluster customer search terms into topics useful for identifying new product opportunities.\nWhen I am not working, I am playing Chess, watching Ohio State football and Lakers basketball, or hiking with my wife, Samantha, around where we live in Southern California.\nIn May 2023, Callisto Media was acquired by Penguin Random House. I am currently looking for a new data science role, either remote or hybrid/in-office in Southern California. A pdf version of my resume can be found in the navigation bar on the top left of this page. Please feel free to reach out via e-mail using the “Contact me” icon at the bottom of the page."
   }
 ]

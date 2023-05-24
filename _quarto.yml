@@ -13,7 +13,8 @@ website:
   navbar:
     left:
       - href: index.qmd
-      - href: resume.Rmd
+      - text: Resume
+        href: files/resume.pdf
 
 format:
   html:
